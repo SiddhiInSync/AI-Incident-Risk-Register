@@ -1,0 +1,24 @@
+{
+  "rows_in": 662,
+  "unparseable_dates": 0,
+  "label_variants_collapsed": {
+    "risk_category": "28 -> 5",
+    "sector": "38 -> 10",
+    "severity": "20 -> 4",
+    "status": "13 -> 4"
+  },
+  "duplicates_removed": 22,
+  "rows_dropped_missing_category": 5,
+  "negative_people_affected_fixed": 4,
+  "implausible_resolution_times_nulled": 3,
+  "missing_before_fill": {
+    "severity": 19,
+    "affected_population": 25,
+    "people_affected": 51,
+    "region": 19,
+    "detection_source": 12,
+    "days_to_resolve": 143,
+    "est_financial_impact_usd": 64
+  },
+  "rows_out": 635
+}
